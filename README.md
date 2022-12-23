@@ -1,3 +1,20 @@
+# Pokedex-React
+
+### Pokedex realizada en React la cúal cuenta con las siguientes funciones
+
+- Un input de entrada, donde se meta el nombre del pokemón a buscar.
+- Toma ese input y va a consultar el API de [pokeapi](https://pokeapi.co/)
+- Muestra en pantalla los siguientes datos del pokemón ingresado:
+    - Nombre
+    - Imágen
+    - Tipo de pokemón
+    - Estadísticas
+    - Movimientos
+    
+### Link de la Pokedex
+
+### [***Pokedex***](https://anthonyah131.github.io/PokedexReact/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
